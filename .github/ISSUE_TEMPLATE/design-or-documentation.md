@@ -1,7 +1,7 @@
 ---
 name: Design or Documentation
 about: Design a specification or document some behavior
-labels: design, documentation
+labels: design
 ---
 
 ## What needs designing or documenting?
